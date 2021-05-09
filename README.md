@@ -1,12 +1,12 @@
 # covid_by_CodeMafia
 This site is designed during FrostHack - IIT Mandi with some general features.
-<!-- =======================================================
+ 
+----->
    Team: CodeMafia
    Aman Saini (Leader)
    Sagar Mishra
    Aditee Prasad
-  ======================================================= -->
-
+ <-----
 
 
 1. INSTRUCTIONS
@@ -19,13 +19,11 @@ HTML, CSS, Javascript are used in making of this site.
 3. Sources/Credits
 
 a. The template for this website is taken from Bootstrap:-
- <!-- =======================================================
-    Theme Name: Lumia
+   Theme Name: Lumia
     Theme URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
-  ======================================================= -->
-  
+ 
   
   b. All the images and icons are taken from google.com
   
@@ -57,9 +55,9 @@ a. The template for this website is taken from Bootstrap:-
 
 
 
-<!-- =======================================================
+  =======================================================
    This website is designed to answer some of basic queries , however if you have some serious symptoms do visit your nearby Doctor.
-  ======================================================= -->
+  =======================================================
 
 
 
