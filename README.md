@@ -1,10 +1,12 @@
 # covid_by_CodeMafia
 This site is designed during FrostHack - IIT Mandi with some general features.
+
+Visit: https://amansaini01.github.io/covid_by_CodeMafia/
  
 ----->
-   Team: CodeMafia
-   Aman Saini (Leader)
-   Sagar Mishra
+   Team: CodeMafia, 
+   Aman Saini (Leader), 
+   Sagar Mishra, 
    Aditee Prasad
  <-----
 
@@ -55,9 +57,9 @@ a. The template for this website is taken from Bootstrap:-
 
 
 
-  =======================================================
+  =======================================
    This website is designed to answer some of basic queries , however if you have some serious symptoms do visit your nearby Doctor.
-  =======================================================
+
 
 
 
