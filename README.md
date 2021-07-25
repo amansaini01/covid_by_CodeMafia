@@ -3,6 +3,8 @@ This site is designed during FrostHack - IIT Mandi with some general features.
 
 Visit: https://amansaini01.github.io/covid_by_CodeMafia/
  
+ <br>
+ 
  <p align="center">
 <img src="https://github.com/amansaini01/covid_by_CodeMafia/blob/main/assets/img/logo.png" />
 </p>
@@ -16,7 +18,7 @@ Visit: https://amansaini01.github.io/covid_by_CodeMafia/
 <img src="https://github.com/amansaini01/covid_by_CodeMafia/blob/main/assets/img/dummies/img4.jpg" />
 </p>
  
- 
+ <br>
  
 ----->
    Team: CodeMafia, 
