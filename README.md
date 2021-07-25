@@ -3,6 +3,21 @@ This site is designed during FrostHack - IIT Mandi with some general features.
 
 Visit: https://amansaini01.github.io/covid_by_CodeMafia/
  
+ <p align="center">
+<img src="https://github.com/https://github.com/amansaini01/covid_by_CodeMafia/blob/main/assets/img/logo.png" />
+</p>
+
+<h3> Track Daily Cases in your area.>/h3>
+<p align="center">
+<img src="https://https://github.com/amansaini01/covid_by_CodeMafia/blob/main/assets/img/dummies/img1.jpg" />
+</p>
+
+<p align="center">
+<img src="https://https://github.com/amansaini01/covid_by_CodeMafia/blob/main/assets/img/dummies/img4.jpg" />
+</p>
+ 
+ 
+ 
 ----->
    Team: CodeMafia, 
    Aman Saini (Leader), 
