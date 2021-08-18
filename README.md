@@ -1,4 +1,4 @@
-# covid_by_CodeMafia
+# Covid_Helper
 This site is designed during FrostHack - IIT Mandi with some general features.
 
 Visit: https://amansaini01.github.io/covid_by_CodeMafia/
